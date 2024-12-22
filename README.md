@@ -1,9 +1,3 @@
-# Chatbot-with-RASA-NLU-Model-and-Python
-
-Here’s a professional, engaging, and fun **README.md** file tailored for your project:
-
----
-
 # 🌟 Chatbot with RASA and NLU Model 🌟  
 
 **An AI-powered conversational assistant designed to revolutionize user interaction for E-commerce.**
